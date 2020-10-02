@@ -1,4 +1,4 @@
-# hello-hacktoberfest
+# Hello-hacktoberfest
 Hacktoberfesters here.
 
 ## Fork this repository
